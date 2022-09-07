@@ -52,7 +52,7 @@ body {
 
 .first-component .paragraph-2 {
   color: hsl(218, 22%, 67%);
-  line-height: 1.6em;
+  line-height: 2em;
 }
 
 .second-layer {
@@ -61,7 +61,7 @@ body {
 
 .second-component {
   width: 15em;
-  height: 10.5em;
+  height: 10em;
   padding: 2.5em;
   background-color: var(--component-color);
   color: white;
